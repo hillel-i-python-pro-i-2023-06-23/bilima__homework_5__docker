@@ -5,7 +5,7 @@ repos:
         name: pyupgrade
         entry: pyupgrade
         args: [
-        "--py311-plus"
+          "--py311-plus"
         ]
         language: system
         types:
